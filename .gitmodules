@@ -7,3 +7,9 @@
 [submodule "themes/pelican-themes"]
 	path = themes/pelican-themes
 	url = https://github.com/getpelican/pelican-themes
+[submodule "jgruber99.github.io"]
+	path = jgruber99.github.io
+	url = https://github.com/jgruber99/jgruber99.github.io
+[submodule "pelican-plugins/jupyter"]
+	path = pelican-plugins/jupyter
+	url = git://github.com/danielfrg/pelican-ipynb.git
