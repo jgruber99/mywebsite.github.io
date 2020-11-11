@@ -1,0 +1,9 @@
+[submodule "themes/pelican-svbhack"]
+	path = themes/pelican-svbhack
+	url = https://github.com/gfidente/pelican-svbhack.git
+[submodule "themes/pelican-plugins"]
+	path = themes/pelican-plugins
+	url = https://github.com/getpelican/pelican-plugins
+[submodule "themes/pelican-themes"]
+	path = themes/pelican-themes
+	url = https://github.com/getpelican/pelican-themes
